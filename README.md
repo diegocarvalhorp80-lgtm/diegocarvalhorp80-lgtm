@@ -56,7 +56,7 @@
 
 ## ⚡ Pulso Diário de Engenharia (Atualização Automática)
 
-- **Última sincronização:** `2026-11-14` às `09:54:43 BRT`
+- **Última sincronização:** `2026-11-15` às `10:41:25 BRT`
 - **Ecossistema monitorado:** `6 produtos privados + EasyData Holding OS`
-- **Índice de Governança & Qualidade:** `66/100`
+- **Índice de Governança & Qualidade:** `70/100`
 - **Política de Segurança:** `100% Repositórios Privados · Zero Secrets · Auditoria Cyber & LGPD Diária`
