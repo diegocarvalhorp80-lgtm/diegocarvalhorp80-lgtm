@@ -7,3 +7,4 @@
 - `2026-11-24` | Ecossistema EasyData sincronizado | Produtos ativos: 13 | Score Holding: 84/100
 - `2026-11-25` | Ecossistema EasyData sincronizado | Produtos ativos: 13 | Score Holding: 84/100
 - `2026-11-26` | Ecossistema EasyData sincronizado | Produtos ativos: 13 | Score Holding: 84/100
+- `2026-11-27` | Ecossistema EasyData sincronizado | Produtos ativos: 13 | Score Holding: 84/100
